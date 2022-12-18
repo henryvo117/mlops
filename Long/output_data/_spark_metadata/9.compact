@@ -1,0 +1,11 @@
+v1
+{"path":"file:///Users/longvo/EPITA/mlops/Long/output_data/part-00000-78a54cd6-df42-4e2b-bb3a-35b596f4ed3b-c000.csv","size":0,"isDir":false,"modificationTime":1670863053593,"blockReplication":1,"blockSize":33554432,"action":"add"}
+{"path":"file:///Users/longvo/EPITA/mlops/Long/output_data/part-00000-5d3db812-2a48-4dc7-8e33-64daaf0b4959-c000.csv","size":3760,"isDir":false,"modificationTime":1670863090654,"blockReplication":1,"blockSize":33554432,"action":"add"}
+{"path":"file:///Users/longvo/EPITA/mlops/Long/output_data/part-00000-a274f626-2bf9-44c3-bda8-27de12af11f1-c000.csv","size":30678,"isDir":false,"modificationTime":1670863100378,"blockReplication":1,"blockSize":33554432,"action":"add"}
+{"path":"file:///Users/longvo/EPITA/mlops/Long/output_data/part-00000-5bbef118-0a01-41c3-a754-1fcb7472ab5a-c000.csv","size":31698,"isDir":false,"modificationTime":1670863110321,"blockReplication":1,"blockSize":33554432,"action":"add"}
+{"path":"file:///Users/longvo/EPITA/mlops/Long/output_data/part-00000-34f1a2b4-214b-484e-9bfd-c1dae22d369b-c000.csv","size":31596,"isDir":false,"modificationTime":1670863120306,"blockReplication":1,"blockSize":33554432,"action":"add"}
+{"path":"file:///Users/longvo/EPITA/mlops/Long/output_data/part-00000-d712e9af-853c-4811-bdb7-1ebc821fefd4-c000.csv","size":32242,"isDir":false,"modificationTime":1670863130312,"blockReplication":1,"blockSize":33554432,"action":"add"}
+{"path":"file:///Users/longvo/EPITA/mlops/Long/output_data/part-00000-f05962af-0081-4e62-9553-97754c647689-c000.csv","size":32420,"isDir":false,"modificationTime":1670863140319,"blockReplication":1,"blockSize":33554432,"action":"add"}
+{"path":"file:///Users/longvo/EPITA/mlops/Long/output_data/part-00000-69e44794-c97a-49e4-a6a3-e2c70a5a74fe-c000.csv","size":32660,"isDir":false,"modificationTime":1670863150315,"blockReplication":1,"blockSize":33554432,"action":"add"}
+{"path":"file:///Users/longvo/EPITA/mlops/Long/output_data/part-00000-2614f6da-c24c-4ee9-a37f-f274f3ac2ed4-c000.csv","size":32674,"isDir":false,"modificationTime":1670863160292,"blockReplication":1,"blockSize":33554432,"action":"add"}
+{"path":"file:///Users/longvo/EPITA/mlops/Long/output_data/part-00000-feb15970-2e78-4c4b-9e1d-046190a67fe8-c000.csv","size":32632,"isDir":false,"modificationTime":1670863170267,"blockReplication":1,"blockSize":33554432,"action":"add"}
